@@ -56,6 +56,7 @@ nvidia-stock/
 |── marketing_campaign.csv  
 ├── requirements.txt 
 ├── image.jpg   
+|── nvidia_stock_data.csv
 |── output.png
 |── LICENSE
 └── README.md          
