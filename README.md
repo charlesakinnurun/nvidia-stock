@@ -30,6 +30,17 @@
     ![output](/output.png)
 - New Prediction Input Function
 
+## Process
+![Screenshot (222)](/Screenshot%20(222).png)
+![Screenshot (223)](/Screenshot%20(223).png)
+![Screenshot (224)](/Screenshot%20(224).png)
+![Screenshot (225)](/Screenshot%20(225).png)
+![Screenshot (226)](/Screenshot%20(226).png)
+![Screenshot (227)](/Screenshot%20(227).png)
+![Screenshot (228)](/Screenshot%20(228).png)
+
+
+
 ## Usage Instructions
 To run this project locally:
 1. Clone the repository:
@@ -58,6 +69,13 @@ nvidia-stock/
 ├── image.jpg   
 |── nvidia_stock_data.csv
 |── output.png
+├── Screenshot (222).png
+├── Screenshot (223).png
+├── Screenshot (224).png
+├── Screenshot (225).png
+├── Screenshot (226).png
+├── Screenshot (227).png
+├── Screenshot (228).png
 |── LICENSE
 └── README.md          
 
