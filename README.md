@@ -64,7 +64,6 @@ nvidia-stock/
 │
 ├── model.ipynb  
 |── model.py    
-|── marketing_campaign.csv  
 ├── requirements.txt 
 ├── image.jpg   
 |── nvidia_stock_data.csv
