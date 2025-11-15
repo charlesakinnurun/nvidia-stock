@@ -2,6 +2,13 @@
 ![Nvidia](/image.jpg)
 
 ## Procedures
+- Import Libraries
+    - scikit-learn
+    - pandas
+    - numpy
+    - seaborn
+    - matplotlib
+    - yfinance
 - Data Acquistion and Loading
     - Data acquired from Yahoo Finance API
 - Data Preprocessing
