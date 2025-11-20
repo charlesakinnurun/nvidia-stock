@@ -82,7 +82,10 @@ nvidia-stock/
 ├── Screenshot (226).png
 ├── Screenshot (227).png
 ├── Screenshot (228).png
-|── LICENSE
+├── LICENSE
+├── CODE_OF_CONDUCT.md
+├── SECURITY.md
+├── CONTRIBUTING.md
 └── README.md          
 
 ```
@@ -105,10 +108,3 @@ You can install all dependencies via:
 ```
 pip install -r requirements.txt
 ```
-## Contributing
-Contributions are welcome! If you’d like to suggest improvements — e.g., new modelling algorithms, additional feature engineering, or better documentation — please open an Issue or submit a Pull Request.
-Please ensure your additions are accompanied by clear documentation and, where relevant, updated evaluation results.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](/LICENSE)
- file for details.
